@@ -168,39 +168,6 @@
     "scrolling_promotion_7Ck4rX": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_mxfqtn": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_7atMVY": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_QFNjNA": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
         "announcement_6epbwX": {
           "type": "announcement",
           "settings": {
@@ -214,11 +181,9 @@
         }
       },
       "block_order": [
-        "announcement_mxfqtn",
-        "announcement_7atMVY",
-        "announcement_QFNjNA",
         "announcement_6epbwX"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -257,6 +222,7 @@
         "heading_E7qwax",
         "text_QpMpP7"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image_position": "center center",
@@ -285,39 +251,6 @@
     "scrolling_promotion_qcLWNw": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_WKPTeD": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_CkPHN4": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_bqCbiX": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
         "announcement_eRjcLc": {
           "type": "announcement",
           "settings": {
@@ -331,11 +264,9 @@
         }
       },
       "block_order": [
-        "announcement_WKPTeD",
-        "announcement_CkPHN4",
-        "announcement_bqCbiX",
         "announcement_eRjcLc"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -374,6 +305,7 @@
         "heading_frACNe",
         "text_axxH8L"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image_position": "center center",
@@ -441,6 +373,7 @@
       "block_order": [
         "ai_gen_block_c856904_T4hAtc"
       ],
+      "disabled": true,
       "name": "Benefits table",
       "settings": {}
     },
@@ -466,6 +399,7 @@
         "question_yUkWRF",
         "question_FpiAt4"
       ],
+      "disabled": true,
       "name": "t:sections.faq.presets.name",
       "settings": {
         "narrow": false,
