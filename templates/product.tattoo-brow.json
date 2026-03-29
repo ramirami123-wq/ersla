@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Natural Hair-Like Strokes</span> – Innovative multi-tip applicator creates realistic, fine strokes for fuller-looking brows.<br><br>\n\n<span style=\"font-weight: bold;\">⏱ Long-Lasting & Smudge-Proof</span> – Stays put all day without fading, smudging, or transferring.<br><br>\n\n<span style=\"font-weight: bold;\">🎯 Easy & Precise Application</span> – Designed for effortless control, perfect for beginners and pros alike.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Sweat & Water Resistant</span> – Holds up through heat, humidity, and busy days.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -81,7 +81,7 @@
         "custom_liquid_wbDEGx": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f5f5f5; font-size: 15px; border-radius: 13px; margin-top: 12px; margin-bottom: 12px; display: flex; align-items: center;\"> \n    <span class=\"em\" style=\"margin-right: 8px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#545454\">\n            <path d=\"M240-160q-50 0-85-35t-35-85H40v-440q0-33 23.5-56.5T120-800h560v160h120l120 160v200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H360q0 50-35 85t-85 35Zm0-80q17 0 28.5-11.5T280-280q0-17-11.5-28.5T240-320q-17 0-28.5 11.5T200-280q0 17 11.5 28.5T240-240ZM120-360h32q17-18 39-29t49-11q27 0 49 11t39 29h272v-360H120v360Zm600 120q17 0 28.5-11.5T760-280q0-17-11.5-28.5T720-320q-17 0-28.5 11.5T680-280q0 17 11.5 28.5T720-240Zm-40-200h170l-90-120h-80v120ZM360-540Z\"/>\n        </svg> \n    </span>\n    <span>Order now to receive by <span id=\"delivery-dates\" style=\"font-weight: bold;\"></span></span>\n</div>\n\n<script>\n    document.addEventListener('DOMContentLoaded', function() {\n        var currentDate = new Date();\n        var minDeliveryDate = new Date();\n        minDeliveryDate.setDate(currentDate.getDate() + 2);\n\n        var maxDeliveryDate = new Date();\n        maxDeliveryDate.setDate(currentDate.getDate() + 3);\n\n        var formatDate = function(date) {\n            var dayNames = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"];\n            var monthNames = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n                \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n            ];\n            var day = date.getDate();\n            var month = monthNames[date.getMonth()];\n            var weekday = dayNames[date.getDay()];\n            return weekday + \", \" + month + \" \" + day;\n        };\n\n        var deliverySpan = document.getElementById('delivery-dates');\n        deliverySpan.textContent = formatDate(minDeliveryDate) + ' – ' + formatDate(maxDeliveryDate);\n    });\n</script>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f5f5f5; font-size: 15px; border-radius: 13px; margin-top: 12px; margin-bottom: 12px; display: flex; align-items: center;\"> \n    <span class=\"em\" style=\"margin-right: 8px;\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#545454\">\n            <path d=\"M240-160q-50 0-85-35t-35-85H40v-440q0-33 23.5-56.5T120-800h560v160h120l120 160v200h-80q0 50-35 85t-85 35q-50 0-85-35t-35-85H360q0 50-35 85t-85 35Zm0-80q17 0 28.5-11.5T280-280q0-17-11.5-28.5T240-320q-17 0-28.5 11.5T200-280q0 17 11.5 28.5T240-240ZM120-360h32q17-18 39-29t49-11q27 0 49 11t39 29h272v-360H120v360Zm600 120q17 0 28.5-11.5T760-280q0-17-11.5-28.5T720-320q-17 0-28.5 11.5T680-280q0 17 11.5 28.5T720-240Zm-40-200h170l-90-120h-80v120ZM360-540Z\"/>\n        </svg> \n    </span>\n    <span>Order now to receive in <span id=\"delivery-dates\" style=\"font-weight: bold;\"></span></span>\n</div>\n\n<script>\n    document.addEventListener('DOMContentLoaded', function() {\n        var currentDate = new Date();\n\n        var minDeliveryDate = new Date();\n        minDeliveryDate.setDate(currentDate.getDate() + 5); // 5 days from now\n\n        var maxDeliveryDate = new Date();\n        maxDeliveryDate.setDate(currentDate.getDate() + 7); // 7 days from now\n\n        var formatDate = function(date) {\n            var monthNames = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\",\n              \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"\n            ];\n            var day = date.getDate();\n            var monthIndex = date.getMonth();\n            return monthNames[monthIndex] + \" \" + day;\n        };\n\n        var deliverySpan = document.getElementById('delivery-dates');\n        deliverySpan.textContent = formatDate(minDeliveryDate) + ' - ' + formatDate(maxDeliveryDate);\n    });\n</script>"
           }
         },
         "related_buttons": {
@@ -168,55 +168,19 @@
     "scrolling_promotion_7Ck4rX": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_mxfqtn": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_7atMVY": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_QFNjNA": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
         "announcement_6epbwX": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Perfect brows in seconds—no makeup skills needed.",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_mxfqtn",
-        "announcement_7atMVY",
-        "announcement_QFNjNA",
         "announcement_6epbwX"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
@@ -239,7 +203,7 @@
         "heading_E7qwax": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Effortless Beauty Every Day",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -247,7 +211,7 @@
         "text_QpMpP7": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Achieve perfectly defined brows in seconds with a simple, easy-to-use design that fits seamlessly into your daily routine.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -259,6 +223,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/51SvwFYn_CL.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -286,55 +251,19 @@
     "scrolling_promotion_qcLWNw": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_WKPTeD": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_CkPHN4": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_bqCbiX": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
         "announcement_eRjcLc": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Natural, long-lasting brows that stay flawless all day.",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_WKPTeD",
-        "announcement_CkPHN4",
-        "announcement_bqCbiX",
         "announcement_eRjcLc"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
@@ -357,7 +286,7 @@
         "heading_frACNe": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Natural Results That Last",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -365,7 +294,7 @@
         "text_axxH8L": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Create realistic, hair-like strokes that stay in place all day—giving you fuller, flawless brows without the need for constant touch-ups.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -377,6 +306,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1769630718_phpqqv5geln5j396GaPVim.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -408,20 +338,20 @@
           "type": "ai_gen_block_c856904",
           "settings": {
             "header_col_1": "Feature",
-            "header_col_2": "Benefit",
-            "header_col_3": "Details",
-            "row_1_col_1": "Quality materials",
-            "row_1_col_2": "Long-lasting durability",
-            "row_1_col_3": "Premium construction",
-            "row_2_col_1": "Fast shipping",
-            "row_2_col_2": "Quick delivery",
-            "row_2_col_3": "2-3 business days",
-            "row_3_col_1": "Easy returns",
-            "row_3_col_2": "Hassle-free process",
-            "row_3_col_3": "30-day guarantee",
-            "row_4_col_1": "Customer support",
-            "row_4_col_2": "Expert assistance",
-            "row_4_col_3": "24/7 availability",
+            "header_col_2": "Us",
+            "header_col_3": "Others",
+            "row_1_col_1": "Precise Multi-Tip Applicator",
+            "row_1_col_2": "✔️",
+            "row_1_col_3": "❌",
+            "row_2_col_1": "Long-Lasting & Smudge-Proof",
+            "row_2_col_2": "✔️",
+            "row_2_col_3": "❌",
+            "row_3_col_1": "Easy for Beginners",
+            "row_3_col_2": "✔️",
+            "row_3_col_3": "❌",
+            "row_4_col_1": "Water & Sweat Resistant",
+            "row_4_col_2": "✔️",
+            "row_4_col_3": "❌",
             "header_background": "#758475",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -452,21 +382,45 @@
         "question_yUkWRF": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "How long does it last?",
+            "text": "<p> It’s designed to stay on all day without smudging or fading.</p>"
           }
         },
         "question_FpiAt4": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Is it waterproof?",
+            "text": "<p>Yes, it’s water- and sweat-resistant, perfect for daily wear</p>"
+          }
+        },
+        "question_pecbDz": {
+          "type": "question",
+          "settings": {
+            "title": "How do I apply it?",
+            "text": "<p>Use light strokes following your natural brow shape on clean, dry skin.</p>"
+          }
+        },
+        "question_Gq4DXb": {
+          "type": "question",
+          "settings": {
+            "title": "How do I remove it?",
+            "text": "<p> It removes easily with makeup remover or cleanser.</p>"
+          }
+        },
+        "question_hrKPdA": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe for sensitive skin?",
+            "text": "<p>Yes, but we recommend a patch test before full use.</p>"
           }
         }
       },
       "block_order": [
         "question_yUkWRF",
-        "question_FpiAt4"
+        "question_FpiAt4",
+        "question_pecbDz",
+        "question_Gq4DXb",
+        "question_hrKPdA"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
