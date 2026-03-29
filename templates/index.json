@@ -15,6 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1774773829_1774515795316.png",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",
@@ -84,7 +85,7 @@
         "custom_liquid_9wDUPc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ High-Frequency Sonic Power</span> – Delivers up to 31,000 vibrations per minute to effectively remove plaque and tartar.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Cordless & Rechargeable</span> – Convenient USB charging for easy, portable use anytime, anywhere.<br><br>\n\n<span style=\"font-weight: bold;\">🦷 Multiple Cleaning Modes</span> – Adjustable settings designed for sensitive gums and deep cleaning needs.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Waterproof & Easy to Clean</span> – Safe for use in the bathroom with a sleek, hygienic design.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Natural Hair-Like Strokes</span> – Innovative multi-tip applicator creates realistic, fine strokes for fuller-looking brows.<br><br>\n\n<span style=\"font-weight: bold;\">⏱ Long-Lasting & Smudge-Proof</span> – Stays put all day without fading, smudging, or transferring.<br><br>\n\n<span style=\"font-weight: bold;\">🎯 Easy & Precise Application</span> – Designed for effortless control, perfect for beginners and pros alike.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Sweat & Water Resistant</span> – Holds up through heat, humidity, and busy days.\n\n</div>"
           }
         },
         "variant_picker_txHV9a": {
@@ -119,7 +120,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "electric-teeth-cleaner-2-in-1",
+        "product": "tattoo-brow",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
@@ -143,7 +144,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Youngevity",
+            "text": "APHTODITE",
             "text_size": 20,
             "link": ""
           }
@@ -172,7 +173,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Youngevity",
+            "heading": "AT APHTODITE",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -180,7 +181,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p>We believe beauty should be simple, effective, and confidence-boosting. Our goal is to create easy-to-use products that deliver professional-looking results at home.<br/><br/>From perfectly defined brows to everyday essentials, our products are designed to fit seamlessly into your routine—helping you look and feel your best, every day.<br/></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -219,7 +220,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "WELCOME TO APHTODITE",
             "text_size": 20,
             "link": ""
           }
@@ -248,22 +249,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "Is it safe for sensitive skin?",
+            "text": "<p><br/>Yes, our formula is gentle, but we always recommend doing a patch test before full use.<br/><br/></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "How long does shipping take?",
+            "text": "<p>Shipping typically takes 5–7 business days, depending on your location.</p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "Is it easy to use for beginners?",
+            "text": "<p>Absolutely! The multi-tip applicator makes it simple to create natural, hair-like strokes—even if you're new to brow products.</p>"
           }
         }
       },
