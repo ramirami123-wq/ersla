@@ -340,18 +340,18 @@
             "header_col_1": "Feature",
             "header_col_2": "Benefit",
             "header_col_3": "Details",
-            "row_1_col_1": "Quality materials",
-            "row_1_col_2": "Long-lasting durability",
-            "row_1_col_3": "Premium construction",
-            "row_2_col_1": "Fast shipping",
-            "row_2_col_2": "Quick delivery",
-            "row_2_col_3": "2-3 business days",
-            "row_3_col_1": "Easy returns",
-            "row_3_col_2": "Hassle-free process",
-            "row_3_col_3": "30-day guarantee",
-            "row_4_col_1": "Customer support",
-            "row_4_col_2": "Expert assistance",
-            "row_4_col_3": "24/7 availability",
+            "row_1_col_1": "3-in-1 Function",
+            "row_1_col_2": "Dry, style & volumize",
+            "row_1_col_3": "Single function only",
+            "row_2_col_1": "Adjustable Heat & Speed",
+            "row_2_col_2": "Custom styling control",
+            "row_2_col_3": "Limited settings",
+            "row_3_col_1": "Fast Styling Time",
+            "row_3_col_2": "Saves time daily",
+            "row_3_col_3": "Slower results",
+            "row_4_col_1": "Ergonomic Design",
+            "row_4_col_2": "Comfortable & easy to use",
+            "row_4_col_3": "Bulky or heavy",
             "header_background": "#8ebdcf",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -382,21 +382,37 @@
         "question_yUkWRF": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Can I use it on wet hair?",
+            "text": "<p><br/>Yes! It’s designed to dry and style your hair at the same time.<br/><br/></p>"
           }
         },
         "question_FpiAt4": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Does it work on all hair types?",
+            "text": "<p>Absolutely—suitable for straight, wavy, curly, thick, or fine hair.</p>"
+          }
+        },
+        "question_mMQLwT": {
+          "type": "question",
+          "settings": {
+            "title": "Will it damage my hair?",
+            "text": "<p>No, the ionic technology helps reduce heat damage while keeping your hair smooth and shiny.</p>"
+          }
+        },
+        "question_FP9NeR": {
+          "type": "question",
+          "settings": {
+            "title": "Can I create different styles?",
+            "text": "<p>Yes! You can achieve volume, straight styles, soft curls, or waves with one tool.</p>"
           }
         }
       },
       "block_order": [
         "question_yUkWRF",
-        "question_FpiAt4"
+        "question_FpiAt4",
+        "question_mMQLwT",
+        "question_FP9NeR"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
@@ -417,7 +433,7 @@
         "judge_me_reviews_review_widget_d8a9Ny": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "review_data": "sample_data",
+            "review_data": "real_data",
             "max_width": 1200,
             "show_shop_reviews": false,
             "empty_state": "empty_widget"
