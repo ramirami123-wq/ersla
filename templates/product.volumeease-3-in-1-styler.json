@@ -174,7 +174,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Salon results, without the salon",
             "text_size": 20,
             "link": ""
           }
@@ -203,7 +203,7 @@
         "heading_E7qwax": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "3-in-1 Volumizer Hair Dryer Brush",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -211,7 +211,7 @@
         "text_QpMpP7": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Dry, style, and volumize your hair in one simple step. Designed with ionic technology and customizable heat settings, it gives you smooth, shiny, salon-quality results from home.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -223,6 +223,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1756539319_php0502glk1ftmmdpy7u8Z.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -256,7 +257,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Dry, style, and shine — all in one.",
             "text_size": 20,
             "link": ""
           }
@@ -285,7 +286,7 @@
         "heading_frACNe": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "ESIA VolumeEase 3-in-1 Styler",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -293,7 +294,7 @@
         "text_axxH8L": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Create effortless volume, sleek styles, or soft waves with one powerful tool. Fast, easy, and gentle on your hair, it transforms your routine into a quick, professional styling experience.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -305,6 +306,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1756539319_phpvlvpg5r2mupqae1ybJ1.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
