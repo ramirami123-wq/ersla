@@ -15,6 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2026-03-28_at_23.16.07.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",
@@ -57,79 +58,32 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_RCYCaB": {
-      "type": "featured-product",
-      "blocks": {
-        "title_7PbUaC": {
-          "type": "title",
-          "settings": {
-            "title_size": "h2",
-            "title_tag": "h2",
-            "show_price": false,
-            "price_size": "medium"
-          }
-        },
-        "rating_AN8Hkq": {
-          "type": "rating",
-          "settings": {}
-        },
-        "price_7c3cKU": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "percentage"
-          }
-        },
-        "custom_liquid_9wDUPc": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Natural Hair-Like Strokes</span> – Innovative multi-tip applicator creates realistic, fine strokes for fuller-looking brows.<br><br>\n\n<span style=\"font-weight: bold;\">⏱ Long-Lasting & Smudge-Proof</span> – Stays put all day without fading, smudging, or transferring.<br><br>\n\n<span style=\"font-weight: bold;\">🎯 Easy & Precise Application</span> – Designed for effortless control, perfect for beginners and pros alike.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Sweat & Water Resistant</span> – Holds up through heat, humidity, and busy days.\n\n</div>"
-          }
-        },
-        "variant_picker_txHV9a": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatches_source": "file",
-            "swatch_type": "round",
-            "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
-            "size_chart": ""
-          }
-        },
-        "buy_buttons_jtWcw8": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": true,
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        }
-      },
-      "block_order": [
-        "title_7PbUaC",
-        "rating_AN8Hkq",
-        "price_7c3cKU",
-        "custom_liquid_9wDUPc",
-        "variant_picker_txHV9a",
-        "buy_buttons_jtWcw8"
-      ],
-      "name": "t:sections.featured-product.presets.name",
+    "featured_collection_RnyUrN": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "product": "tattoo-brow",
-        "layout": "media_first",
-        "full_width": false,
+        "collection": "",
+        "products_to_show": 4,
+        "horizontal_scroll": false,
+        "show_view_all": true,
         "show_divider": false,
-        "show_featured_media": false,
-        "hide_variants": false,
-        "enable_image_zoom": false,
-        "enable_video_looping": false,
-        "image_ratio": "adapt_first",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
         "image_position": "center center",
-        "enable_layered_images": false,
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -143,7 +97,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "APHTODITE",
+            "text": "ESIA",
             "text_size": 20,
             "link": ""
           }
@@ -172,7 +126,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT APHTODITE",
+            "heading": "AT ESIA",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -180,7 +134,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe beauty should be simple, effective, and confidence-boosting. Our goal is to create easy-to-use products that deliver professional-looking results at home.<br/><br/>From perfectly defined brows to everyday essentials, our products are designed to fit seamlessly into your routine—helping you look and feel your best, every day.<br/></p>",
+            "text": "<p>we make self-care simple and effective.</p><p>We offer smart, high-quality tools like self-cleaning brushes, the VolumeEase 3-in-1 Styler, and the Silicone ScalpEase Brush—designed to save you time and deliver real results.</p><p>Our goal is to help you look and feel your best with easy, everyday solutions.</p><p>Simple. Practical. ESIA.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -219,7 +173,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO APHTODITE",
+            "text": "WELCOME TO ESIA",
             "text_size": 20,
             "link": ""
           }
@@ -248,22 +202,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is it safe for sensitive skin?",
-            "text": "<p><br/>Yes, our formula is gentle, but we always recommend doing a patch test before full use.<br/><br/></p>"
+            "title": "How long does shipping take?",
+            "text": "<p><br/>Orders are typically processed within 1–3 business days. Shipping usually takes 5–7 business days depending on your location.<br/><br/></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "How long does shipping take?",
-            "text": "<p>Shipping typically takes 5–7 business days, depending on your location.</p>"
+            "title": "Are your products safe to use?",
+            "text": "<p>Absolutely. All our products are designed with safety and ease of use in mind.</p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it easy to use for beginners?",
-            "text": "<p>Absolutely! The multi-tip applicator makes it simple to create natural, hair-like strokes—even if you're new to brow products.</p>"
+            "title": "How can I contact you?",
+            "text": "<p>You can reach us anytime at our support email or Whatsapp, and we’ll get back to you as soon as possible.</p>"
           }
         }
       },
@@ -340,7 +294,7 @@
   },
   "order": [
     "slideshow",
-    "featured_product_RCYCaB",
+    "featured_collection_RnyUrN",
     "scrolling_promotion_gqQrxK",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
