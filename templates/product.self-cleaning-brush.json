@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">🧼 Self-Cleaning Design</span> – Easily remove trapped hair with one simple click—no mess, no hassle.<br><br>\n\n<span style=\"font-weight: bold;\">🔄 Retractable Bristles</span> – Innovative telescopic structure lets the bristles retract for quick and easy cleaning.<br><br>\n\n<span style=\"font-weight: bold;\">💆‍♀️ Gentle on Scalp</span> – Soft bristles glide smoothly through hair without pulling or causing discomfort.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth, Tangle-Free Results</span> – Detangles hair effortlessly, leaving it soft, neat, and manageable.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n🧼 Self-cleaning retractable brush design removes hair instantly with one click, keeping your brush clean and mess-free.<br><br>\n\n💆‍♀️ Anti-static nylon bristles gently detangle while massaging your scalp for a comfortable, pain-free experience.<br><br>\n\n✨ Air cushion paddle design glides smoothly through all hair types, leaving your hair soft, smooth, and tangle-free.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -142,6 +142,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -174,7 +175,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Clean brush. Effortless beauty.",
             "text_size": 20,
             "link": ""
           }
@@ -203,7 +204,7 @@
         "heading_E7qwax": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Self-Cleaning Hair Brush",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -211,7 +212,7 @@
         "text_QpMpP7": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>A smart, hassle-free brush designed to detangle your hair effortlessly while keeping itself clean with just one click.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -223,6 +224,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1774869196_php8la55s0tug8aeS3hwxa.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -256,7 +258,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Detangle smarter, not harder",
             "text_size": 20,
             "link": ""
           }
@@ -285,7 +287,7 @@
         "heading_frACNe": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Retractable Scalp Massage Brush",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -293,7 +295,7 @@
         "text_axxH8L": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Designed for comfort and convenience, this brush glides through your hair while massaging your scalp and removing buildup instantly.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -305,6 +307,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1774869196_php36dcl03corvr4hOjazh.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -336,20 +339,20 @@
           "type": "ai_gen_block_c856904",
           "settings": {
             "header_col_1": "Feature",
-            "header_col_2": "Benefit",
-            "header_col_3": "Details",
-            "row_1_col_1": "Quality materials",
-            "row_1_col_2": "Long-lasting durability",
-            "row_1_col_3": "Premium construction",
-            "row_2_col_1": "Fast shipping",
-            "row_2_col_2": "Quick delivery",
-            "row_2_col_3": "2-3 business days",
-            "row_3_col_1": "Easy returns",
-            "row_3_col_2": "Hassle-free process",
-            "row_3_col_3": "30-day guarantee",
-            "row_4_col_1": "Customer support",
-            "row_4_col_2": "Expert assistance",
-            "row_4_col_3": "24/7 availability",
+            "header_col_2": "US",
+            "header_col_3": "OTHERS",
+            "row_1_col_1": "Self-Cleaning Function",
+            "row_1_col_2": "One-click cleaning",
+            "row_1_col_3": "Manual hair removal",
+            "row_2_col_1": "Retractable Bristles",
+            "row_2_col_2": "Easy & mess-free",
+            "row_2_col_3": "Fixed, hard to clean",
+            "row_3_col_1": "Anti-Static Technology",
+            "row_3_col_2": "Reduces frizz",
+            "row_3_col_3": "Causes static",
+            "row_4_col_1": "Scalp Massage Comfort",
+            "row_4_col_2": "Gentle & relaxing",
+            "row_4_col_3": "Can pull or hurt",
             "header_background": "#8ebdcf",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -380,21 +383,37 @@
         "question_yUkWRF": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Is it suitable for all hair types?",
+            "text": "<p>Yes! It works on straight, curly, thick, and fine hair.</p>"
           }
         },
         "question_FpiAt4": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Will it hurt my scalp?",
+            "text": "<p>No, the soft nylon bristles are designed to gently detangle while massaging your scalp.</p>"
+          }
+        },
+        "question_3mQaVg": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use it on wet hair?",
+            "text": "<p>Yes, it can be used on both wet and dry hair.</p>"
+          }
+        },
+        "question_Eezzce": {
+          "type": "question",
+          "settings": {
+            "title": "Is it easy to clean?",
+            "text": "<p>Very easy—just one click and the trapped hair comes right off.</p>"
           }
         }
       },
       "block_order": [
         "question_yUkWRF",
-        "question_FpiAt4"
+        "question_FpiAt4",
+        "question_3mQaVg",
+        "question_Eezzce"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
@@ -411,6 +430,20 @@
     },
     "1771945068374140eb": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_qNP9MY": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_qNP9MY"
+      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,
