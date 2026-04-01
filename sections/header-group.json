@@ -36,8 +36,8 @@
         "show_navigation": true,
         "direction": "left",
         "speed": 1.6,
-        "colors_text": "#000000",
-        "colors_background": "#758475",
+        "colors_text": "#ffffff",
+        "colors_background": "#8ebdcf",
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -46,7 +46,6 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo": "shopify://shop_images/1774773829_1774515795316-removebg-preview.png",
         "logo_height": 66,
         "mobile_logo_height": 50,
         "logo_position": "top-center",

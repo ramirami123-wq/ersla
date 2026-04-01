@@ -15,7 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1774773829_1774515795316.png",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",
@@ -161,7 +160,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#758475",
+        "colors_background": "#8ebdcf",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -237,7 +236,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#758475",
+        "colors_background": "#8ebdcf",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
