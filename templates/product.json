@@ -142,6 +142,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -183,6 +184,7 @@
       "block_order": [
         "announcement_6epbwX"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -221,6 +223,7 @@
         "heading_E7qwax",
         "text_QpMpP7"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image_position": "center center",
@@ -265,6 +268,7 @@
       "block_order": [
         "announcement_eRjcLc"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -303,6 +307,7 @@
         "heading_frACNe",
         "text_axxH8L"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image_position": "center center",
@@ -371,6 +376,7 @@
       "block_order": [
         "ai_gen_block_c856904_T4hAtc"
       ],
+      "disabled": true,
       "name": "Benefits table",
       "settings": {}
     },
@@ -396,6 +402,7 @@
         "question_yUkWRF",
         "question_FpiAt4"
       ],
+      "disabled": true,
       "name": "t:sections.faq.presets.name",
       "settings": {
         "narrow": false,
