@@ -187,7 +187,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "esia hair.easy life",
             "text_size": 20,
             "link": ""
           }
@@ -433,17 +433,9 @@
         "heading_3hMEhe": {
           "type": "heading",
           "settings": {
-            "heading": "perfect eybrow",
+            "heading": "Super absorbent for faster drying",
             "heading_size": "h1",
             "heading_tag": "h2"
-          }
-        },
-        "text_8VVVkt": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br/>perfectly defined brows in seconds.<br/></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
           }
         },
         "button_LWkHMi": {
@@ -458,12 +450,11 @@
       },
       "block_order": [
         "heading_3hMEhe",
-        "text_8VVVkt",
         "button_LWkHMi"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/main_imageHe360864b3aaf49e089b15ee38501e2f5x.jpg",
+        "image": "shopify://shop_images/main_imageH336727e78b254d9386539e5d1ab0d5a8E.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -477,6 +468,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -561,7 +553,7 @@
         "text_yEBWJg": {
           "type": "text",
           "settings": {
-            "text": "<h1>Achieve fuller-looking hairlines</h1>",
+            "text": "<h1>Secure fit – stays in place while you move</h1>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -582,7 +574,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1767015643_phpk62k86j8fqk83YA4rYq.jpg",
+        "image": "shopify://shop_images/main_imageHe6c5ce48ae9b4c618dfe166b97d568bfO.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -596,6 +588,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -681,22 +674,22 @@
         "question_UkaqWy": {
           "type": "question",
           "settings": {
-            "title": "How long does it last?",
-            "text": "<p><br/>It is long-lasting and stays in place throughout the day. However, it can be easily removed with makeup remover or by washing your hair.<br/><br/></p>"
+            "title": "What is a microfiber hair towel?",
+            "text": "<p><br/><br/>A microfiber hair towel is a lightweight towel made from ultra-fine fibers designed to absorb water from your hair quickly and gently, reducing drying time and frizz.<br/><br/><br/></p>"
           }
         },
         "question_Xhmfcr": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all hair and brow types?",
-            "text": "<p><br/>Yes! It works on all hair types and textures, and can be used on both eyebrows and scalp areas.<br/><br/></p>"
+            "title": "How do I use the microfiber hair towel?",
+            "text": "<p><br/><br/>Simply flip your hair forward, place the towel over your head, twist the length, and secure it with the button or loop at the back.<br/><br/><br/><br/></p>"
           }
         },
         "question_gw4dyD": {
           "type": "question",
           "settings": {
-            "title": "Will it look natural or too heavy?",
-            "text": "<p>The powder has a lightweight, blendable formula that gives a soft, natural finish without looking harsh or overdone.</p>"
+            "title": "How is it different from a regular towel?",
+            "text": "<p><br/>Unlike regular cotton towels, microfiber towels are softer, more absorbent, and cause less friction—helping prevent frizz, breakage, and damage.<br/><br/></p>"
           }
         }
       },
