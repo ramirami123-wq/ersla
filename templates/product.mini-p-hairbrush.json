@@ -685,22 +685,22 @@
         "question_UkaqWy": {
           "type": "question",
           "settings": {
-            "title": "How long does it last?",
-            "text": "<p><br/>It is long-lasting and stays in place throughout the day. However, it can be easily removed with makeup remover or by washing your hair.<br/><br/></p>"
+            "title": "Is it safe to use daily?",
+            "text": "<p><br/><br/>Yes, but it’s recommended to use a heat protectant spray to keep your hair healthy.<br/><br/><br/></p>"
           }
         },
         "question_Xhmfcr": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all hair and brow types?",
-            "text": "<p><br/>Yes! It works on all hair types and textures, and can be used on both eyebrows and scalp areas.<br/><br/></p>"
+            "title": "Will it burn my scalp or hands?",
+            "text": "<p><br/><br/>No, the brush is designed with anti-scald technology and protective tips to keep your scalp and hands safe during use.<br/><br/><br/></p>"
           }
         },
         "question_gw4dyD": {
           "type": "question",
           "settings": {
-            "title": "Will it look natural or too heavy?",
-            "text": "<p>The powder has a lightweight, blendable formula that gives a soft, natural finish without looking harsh or overdone.</p>"
+            "title": "Can it replace a flat iron?",
+            "text": "<p><br/>For everyday styling and quick touch-ups, yes. However, for ultra-sleek, salon-level straightening, a flat iron may still give more intense results.<br/><br/></p>"
           }
         }
       },
