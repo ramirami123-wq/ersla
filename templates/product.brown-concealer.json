@@ -187,7 +187,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "esia hair.easy life",
             "text_size": 20,
             "link": ""
           }
@@ -433,7 +433,7 @@
         "heading_3hMEhe": {
           "type": "heading",
           "settings": {
-            "heading": "perfect eybrow",
+            "heading": "full coverage",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -441,7 +441,7 @@
         "text_8VVVkt": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>perfectly defined brows in seconds.<br/></p>",
+            "text": "<p>Instantly covers gray roots and sparse areas</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -463,7 +463,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/main_imageHe360864b3aaf49e089b15ee38501e2f5x.jpg",
+        "image": "shopify://shop_images/1760624394_phpvvrjrqbbh9bk9hxXq4H.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -477,6 +477,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -546,70 +547,73 @@
         "direction": "left",
         "speed": 1.6,
         "show_divider": false,
-        "use_custom_colors": false,
+        "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#8ebdcf",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "image_with_text_M4fhR4": {
-      "type": "image-with-text",
+    "product_details_UY6URb": {
+      "type": "product-details",
       "blocks": {
-        "text_yEBWJg": {
-          "type": "text",
+        "collapsible_tab_apXN6n": {
+          "type": "collapsible_tab",
           "settings": {
-            "text": "<h1>Achieve fuller-looking hairlines</h1>",
-            "text_size": "typeset2",
-            "secondary_color": false
+            "heading": "Perfect for daily use or last-minute touch-ups",
+            "content": "",
+            "page": ""
           }
         },
-        "button_mqFEH4": {
-          "type": "button",
+        "collapsible_tab_EeELwp": {
+          "type": "collapsible_tab",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
+            "heading": "Quick and easy application",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible_tab_mwCW6k": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Long-lasting, smudge-resistant formula",
+            "content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "text_yEBWJg",
-        "button_mqFEH4"
+        "collapsible_tab_apXN6n",
+        "collapsible_tab_EeELwp",
+        "collapsible_tab_mwCW6k"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "t:sections.product-details.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1767015643_phpk62k86j8fqk83YA4rYq.jpg",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
-        "enable_video_looping": false,
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
+        "open_first_collapsible_row": false,
+        "heading": "Product Details",
+        "heading_size": "h2",
+        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_APgFHL": {
+    "scrolling_promotion_q8UkQ8": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_KNyhUj": {
+        "announcement_idHcGR": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "esia hair.easy life",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_6KQRhb": {
           "type": "announcement",
           "settings": {
             "icon": "none",
@@ -620,29 +624,7 @@
             "link": ""
           }
         },
-        "announcement_LJqTjW": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_j8dUDD": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_3hKLXQ": {
+        "announcement_gMxGEC": {
           "type": "announcement",
           "settings": {
             "icon": "none",
@@ -655,21 +637,19 @@
         }
       },
       "block_order": [
-        "announcement_KNyhUj",
-        "announcement_LJqTjW",
-        "announcement_j8dUDD",
-        "announcement_3hKLXQ"
+        "announcement_idHcGR",
+        "announcement_6KQRhb",
+        "announcement_gMxGEC"
       ],
-      "custom_css": [],
-      "name": "scrolling promotion",
+      "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
         "speed": 1.6,
         "show_divider": false,
-        "use_custom_colors": false,
+        "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#8ebdcf",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -810,8 +790,8 @@
     "faq_Jc3AYc",
     "image_with_text_4QPpht",
     "scrolling_promotion_KatiUA",
-    "image_with_text_M4fhR4",
-    "scrolling_promotion_APgFHL",
+    "product_details_UY6URb",
+    "scrolling_promotion_q8UkQ8",
     "faq_tjgarb",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
