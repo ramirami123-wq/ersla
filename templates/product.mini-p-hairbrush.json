@@ -187,7 +187,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "esia haie.easy life",
             "text_size": 20,
             "link": ""
           }
@@ -433,13 +433,14 @@
         "heading_3hMEhe": {
           "type": "heading",
           "settings": {
-            "heading": "perfect eybrow",
+            "heading": "Anytime,anywhere",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
         },
         "text_8VVVkt": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><br/>perfectly defined brows in seconds.<br/></p>",
             "text_size": "typeset2",
@@ -463,7 +464,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/main_imageHe360864b3aaf49e089b15ee38501e2f5x.jpg",
+        "image": "shopify://shop_images/main_imageH879e8d03573d4d12adae522d3fb7050eG.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -477,6 +478,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -580,6 +582,7 @@
         "text_yEBWJg",
         "button_mqFEH4"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/1767015643_phpk62k86j8fqk83YA4rYq.jpg",
@@ -596,6 +599,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
