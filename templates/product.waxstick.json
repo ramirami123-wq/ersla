@@ -181,20 +181,20 @@
     "scrolling_promotion_7Ck4rX": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_6epbwX": {
+        "announcement_YKEeCa": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "esia hair.easy hair",
             "text_size": 20,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_6epbwX"
+        "announcement_YKEeCa"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
@@ -433,7 +433,7 @@
         "heading_3hMEhe": {
           "type": "heading",
           "settings": {
-            "heading": "perfect eybrow",
+            "heading": "keeps every strand in place",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -441,7 +441,7 @@
         "text_8VVVkt": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>perfectly defined brows in seconds.<br/></p>",
+            "text": "<p><br/>just smooth perfection<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -463,9 +463,9 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/main_imageHe360864b3aaf49e089b15ee38501e2f5x.jpg",
+        "image": "shopify://shop_images/main_imageH7c3976e0cd564beab024dae6b5544f29S.jpg",
         "image_position": "center center",
-        "layout": "image_first",
+        "layout": "text_first",
         "text_box_position": "middle",
         "text_alignment": "left",
         "image_ratio": "650px",
@@ -477,6 +477,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -546,10 +547,10 @@
         "direction": "left",
         "speed": 1.6,
         "show_divider": false,
-        "use_custom_colors": false,
+        "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#8ebdcf",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -561,7 +562,7 @@
         "text_yEBWJg": {
           "type": "text",
           "settings": {
-            "text": "<h1>Achieve fuller-looking hairlines</h1>",
+            "text": "<p><br/>Easy to use, non-greasy, and perfect for your bag<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -582,7 +583,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1767015643_phpk62k86j8fqk83YA4rYq.jpg",
+        "image": "shopify://shop_images/main_imageH41dee26f63c2461fa57f8fb38f228c8aG.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -596,6 +597,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -681,22 +683,22 @@
         "question_UkaqWy": {
           "type": "question",
           "settings": {
-            "title": "How long does it last?",
-            "text": "<p><br/>It is long-lasting and stays in place throughout the day. However, it can be easily removed with makeup remover or by washing your hair.<br/><br/></p>"
+            "title": "Will it make my hair greasy or heavy?",
+            "text": "<p><br/><br/>No, its designed with a lightweight formula that gives a natural finish without leaving your hair greasy or weighed down.<br/><br/><br/><br/></p>"
           }
         },
         "question_Xhmfcr": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all hair and brow types?",
-            "text": "<p><br/>Yes! It works on all hair types and textures, and can be used on both eyebrows and scalp areas.<br/><br/></p>"
+            "title": "How do I use a hair wax stick?",
+            "text": "<p><br/><br/>Simply glide the stick directly onto your hair where needed, then use your fingers, a brush, or a comb to style and smooth the area<br/><br/><br/><br/></p>"
           }
         },
         "question_gw4dyD": {
           "type": "question",
           "settings": {
-            "title": "Will it look natural or too heavy?",
-            "text": "<p>The powder has a lightweight, blendable formula that gives a soft, natural finish without looking harsh or overdone.</p>"
+            "title": "Does it leave residue or flakes?",
+            "text": "<p><br/>No, its formulated to be non-flaky and leave little to no visible residue when applied properly.<br/><br/></p>"
           }
         }
       },
