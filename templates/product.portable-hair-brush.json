@@ -433,7 +433,7 @@
         "heading_3hMEhe": {
           "type": "heading",
           "settings": {
-            "heading": "perfect eybrow",
+            "heading": "perfect heating",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -441,7 +441,7 @@
         "text_8VVVkt": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>perfectly defined brows in seconds.<br/></p>",
+            "text": "<p>protect your hair</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -463,7 +463,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/main_imageHe360864b3aaf49e089b15ee38501e2f5x.jpg",
+        "image": "shopify://shop_images/main_imageH9b3eefd886564edc9b331f8a7fbe9655k.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -477,6 +477,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -549,57 +550,6 @@
         "use_custom_colors": false,
         "colors_icon": "#ffffff",
         "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_M4fhR4": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_yEBWJg": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>Achieve fuller-looking hairlines</h1>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "button_mqFEH4": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_yEBWJg",
-        "button_mqFEH4"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/1767015643_phpk62k86j8fqk83YA4rYq.jpg",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
-        "enable_video_looping": false,
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
@@ -681,22 +631,22 @@
         "question_UkaqWy": {
           "type": "question",
           "settings": {
-            "title": "How long does it last?",
-            "text": "<p><br/>It is long-lasting and stays in place throughout the day. However, it can be easily removed with makeup remover or by washing your hair.<br/><br/></p>"
+            "title": "Does it damage hair?",
+            "text": "<p><br/><br/>No, when used correctly. The brush is designed with protective coating and even heat distribution to reduce heat damage compared to traditional flat irons<br/><br/><br/></p>"
           }
         },
         "question_Xhmfcr": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all hair and brow types?",
-            "text": "<p><br/>Yes! It works on all hair types and textures, and can be used on both eyebrows and scalp areas.<br/><br/></p>"
+            "title": "Will it burn my scalp or hands?",
+            "text": "<p><br/><br/>No, the brush is designed with anti-scald technology and protective tips to keep your scalp and hands safe during use.<br/><br/><br/><br/></p>"
           }
         },
         "question_gw4dyD": {
           "type": "question",
           "settings": {
-            "title": "Will it look natural or too heavy?",
-            "text": "<p>The powder has a lightweight, blendable formula that gives a soft, natural finish without looking harsh or overdone.</p>"
+            "title": "Is it safe to use daily?",
+            "text": "<p><br/>Yes, but it’s recommended to use a heat protectant spray to keep your hair healthy.<br/><br/></p>"
           }
         }
       },
@@ -810,7 +760,6 @@
     "faq_Jc3AYc",
     "image_with_text_4QPpht",
     "scrolling_promotion_KatiUA",
-    "image_with_text_M4fhR4",
     "scrolling_promotion_APgFHL",
     "faq_tjgarb",
     "1771945068374140eb",
