@@ -680,22 +680,22 @@
         "question_UkaqWy": {
           "type": "question",
           "settings": {
-            "title": "How long does it last?",
-            "text": "<p><br/>It is long-lasting and stays in place throughout the day. However, it can be easily removed with makeup remover or by washing your hair.<br/><br/></p>"
+            "title": "How often should I use it?",
+            "text": "<p><br/><br/>Use it 1–2 times per week for best results. For very damaged hair, you can use it more frequently.<br/><br/><br/><br/></p>"
           }
         },
         "question_Xhmfcr": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all hair and brow types?",
-            "text": "<p><br/>Yes! It works on all hair types and textures, and can be used on both eyebrows and scalp areas.<br/><br/></p>"
+            "title": "Can I use it on my scalp?",
+            "text": "<p><br/><br/>It’s recommended to apply it mainly to the mid-lengths and ends, not directly on the scalp, especially if you have oily roots.<br/><br/><br/><br/></p>"
           }
         },
         "question_gw4dyD": {
           "type": "question",
           "settings": {
-            "title": "Will it look natural or too heavy?",
-            "text": "<p>The powder has a lightweight, blendable formula that gives a soft, natural finish without looking harsh or overdone.</p>"
+            "title": "Does it make hair greasy?",
+            "text": "<p><br/>No, when used correctly and rinsed well, it leaves hair soft and smooth without a greasy feel<br/><br/></p>"
           }
         }
       },
