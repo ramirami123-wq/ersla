@@ -52,12 +52,20 @@
             "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
           }
         },
+        "text_7GkrQY": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "show_variant_labels": true,
             "picker_type": "button",
-            "enable_color_swatches": true,
+            "enable_color_swatches": false,
             "swatches_source": "file",
             "swatch_type": "round",
             "enable_swatch_cross": true,
@@ -71,6 +79,14 @@
             "show_quantity_selector": true,
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "text_CAzeFU": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "",
+            "text_style": "body"
           }
         },
         "custom_liquid_wbDEGx": {
@@ -107,8 +123,10 @@
         "rating",
         "price",
         "custom_liquid_H9DXEK",
+        "text_7GkrQY",
         "variant_picker",
         "buy_buttons",
+        "text_CAzeFU",
         "custom_liquid_wbDEGx",
         "related_buttons",
         "sticky_cart",
@@ -178,7 +196,6 @@
       "block_order": [
         "announcement_6epbwX"
       ],
-      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -410,6 +427,297 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_4QPpht": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3hMEhe": {
+          "type": "heading",
+          "settings": {
+            "heading": "perfect eybrow",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_8VVVkt": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>perfectly defined brows in seconds.<br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_LWkHMi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3hMEhe",
+        "text_8VVVkt",
+        "button_LWkHMi"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/main_imageHe360864b3aaf49e089b15ee38501e2f5x.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_KatiUA": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_pEjYbp": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "esia hair.easy life",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_CFxLa7": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "esia hair.easy life",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_bTcJmb": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "esia hair.easy life",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_zBXGKc": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "esia hair.easy life",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_pEjYbp",
+        "announcement_CFxLa7",
+        "announcement_bTcJmb",
+        "announcement_zBXGKc"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_M4fhR4": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_yEBWJg": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Achieve fuller-looking hairlines</h1>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_mqFEH4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_yEBWJg",
+        "button_mqFEH4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1767015643_phpk62k86j8fqk83YA4rYq.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_APgFHL": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_KNyhUj": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_LJqTjW": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_j8dUDD": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_3hKLXQ": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_KNyhUj",
+        "announcement_LJqTjW",
+        "announcement_j8dUDD",
+        "announcement_3hKLXQ"
+      ],
+      "custom_css": [],
+      "name": "scrolling promotion",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq_tjgarb": {
+      "type": "faq",
+      "blocks": {
+        "question_UkaqWy": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it last?",
+            "text": "<p><br/>It is long-lasting and stays in place throughout the day. However, it can be easily removed with makeup remover or by washing your hair.<br/><br/></p>"
+          }
+        },
+        "question_Xhmfcr": {
+          "type": "question",
+          "settings": {
+            "title": "Is it suitable for all hair and brow types?",
+            "text": "<p><br/>Yes! It works on all hair types and textures, and can be used on both eyebrows and scalp areas.<br/><br/></p>"
+          }
+        },
+        "question_gw4dyD": {
+          "type": "question",
+          "settings": {
+            "title": "Will it look natural or too heavy?",
+            "text": "<p>The powder has a lightweight, blendable formula that gives a soft, natural finish without looking harsh or overdone.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_UkaqWy",
+        "question_Xhmfcr",
+        "question_gw4dyD"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1771945068374140eb": {
       "type": "apps",
       "blocks": {
@@ -500,6 +808,11 @@
     "image_with_text_Qh8DQQ",
     "blocks_9jbtMK",
     "faq_Jc3AYc",
+    "image_with_text_4QPpht",
+    "scrolling_promotion_KatiUA",
+    "image_with_text_M4fhR4",
+    "scrolling_promotion_APgFHL",
+    "faq_tjgarb",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
     "1771850465e38b72c3"
