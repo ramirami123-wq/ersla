@@ -49,7 +49,7 @@
       ],
       "settings": {
         "only_homepage": false,
-        "layout": "default",
+        "layout": "marquee",
         "mobile_layout": "marquee",
         "autorotate": true,
         "autorotate_speed": 5,
