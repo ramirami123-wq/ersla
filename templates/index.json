@@ -80,9 +80,9 @@
         "button_8QYRwN": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
+            "button_label": "shop now",
+            "button_link": "shopify://products/rotating-lifting-comb",
+            "button_size": "small",
             "button_style_secondary": false
           }
         }
@@ -95,6 +95,7 @@
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/1774869196_php36dcl03corvr4hOjazh.jpg",
+        "image_2": "shopify://shop_images/1774869196_php8la55s0tug8aeS3hwxa.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
