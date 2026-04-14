@@ -67,6 +67,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_rURBjM": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "buy 2 and get a free delevery"
+          }
+        },
         "related_buttons": {
           "type": "related_buttons",
           "disabled": true,
@@ -96,6 +102,7 @@
         "price",
         "variant_picker",
         "buy_buttons",
+        "custom_liquid_rURBjM",
         "related_buttons",
         "sticky_cart",
         "collapsible_description_mFEEde"
