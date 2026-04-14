@@ -58,11 +58,69 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_B9Emt9": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8LTfHM": {
+          "type": "heading",
+          "settings": {
+            "heading": "the esia brush offer",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_PGdd66": {
+          "type": "text",
+          "settings": {
+            "text": "<p>buy 2 esia brush and get a free delevery</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_8QYRwN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8LTfHM",
+        "text_PGdd66",
+        "button_8QYRwN"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1774869196_php36dcl03corvr4hOjazh.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_RnyUrN": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "frontpage",
+        "collection": "the-esia-brush",
         "products_to_show": 4,
         "horizontal_scroll": false,
         "show_view_all": true,
@@ -294,6 +352,7 @@
   },
   "order": [
     "slideshow",
+    "image_banner_B9Emt9",
     "featured_collection_RnyUrN",
     "scrolling_promotion_gqQrxK",
     "rich_text_iPTEGL",
